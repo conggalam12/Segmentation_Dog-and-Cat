@@ -1,4 +1,4 @@
-# Segmentation
- - You must install tensorflow before.
- - The project is segmentation object : dog and cat
- - Method : using unet .
+## Segmentation 
+* **Project** : Segmentation Dog and Cat
+* **Requirement** : Tensorflow
+
